@@ -1,0 +1,43 @@
+body{
+font-family: Arial;
+background:#f5f5f5;
+text-align:center;
+}
+
+header{
+background:#222;
+color:white;
+padding:20px;
+}
+
+nav a{
+color:white;
+margin:10px;
+text-decoration:none;
+font-weight:bold;
+}
+
+.hero{
+background:#ddd;
+padding:60px;
+}
+
+.books{
+margin-top:30px;
+}
+
+.book{
+background:white;
+border:1px solid gray;
+width:200px;
+margin:20px auto;
+padding:15px;
+}
+
+button{
+background:black;
+color:white;
+padding:8px;
+border:none;
+cursor:pointer;
+}
